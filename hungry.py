@@ -6,3 +6,6 @@ if n%2 == 0:
     print("Hello ")
 else:
     print("The number is odd")
+    print("The number is not divisible by 2")
+    n1 = int(input("Enter an odd number : "))
+    print("The odd number is entered")
