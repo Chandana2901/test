@@ -11,3 +11,5 @@ else:
     n1 = int(input("Enter an odd number : "))
     print("The odd number is entered")
     print("Welcome")
+    n3 = int(input("Enter another odd number :"))
+    print("Entered odd number : " , str(n3))
