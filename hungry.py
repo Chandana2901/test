@@ -5,6 +5,8 @@ if n%2 == 0:
     print("The number is divisible by 2")
     print("Hello ")
     print("Welcome")
+    n2 = int(input("Enter another even number : "))
+    print("The other even number entered is  : ",str(n2))
 else:
     print("The number is odd")
     print("The number is not divisible by 2")
